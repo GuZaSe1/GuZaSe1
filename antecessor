@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int valor, resposta;
+
+    cout<< " ===== EXERCICIO 1 =====" <<endl;
+    cout<< "digite o valor para descobrir o seu antecessor: " << endl;
+    cin>> valor;
+
+    resposta=valor-1;
+
+    cout<<"a resposta eh: " <<resposta<<endl;
+
+    return 0;
+}
