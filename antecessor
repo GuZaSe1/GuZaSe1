@@ -6,7 +6,7 @@ int main()
 {
     int valor, resposta;
 
-    cout<< " ===== EXERCICIO 1 =====" <<endl;
+    cout<< " ===== TESTE =====" <<endl;
     cout<< "digite o valor para descobrir o seu antecessor: " << endl;
     cin>> valor;
 
